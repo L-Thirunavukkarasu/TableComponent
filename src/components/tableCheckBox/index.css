@@ -1,0 +1,22 @@
+table {
+  border-width: 1px;
+  border-color: #f7f7f7;
+  border-style: solid;
+  border-radius: 16px;
+  border-spacing: 0px;
+  box-shadow: 0 3px 3px 0 #e1e1e1;
+  margin-bottom: 50px;
+  width: 50%;
+}
+
+.rowCheckBoxTxt {
+  font-family: "Avenir Book";
+  font-weight: 350;
+  font-size: 20px;
+  line-height: 35px;
+  letter-spacing: 0.1%;
+}
+
+.rowHightLight {
+  background: #efedfd;
+}

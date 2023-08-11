@@ -1,0 +1,51 @@
+table {
+  border-width: 1px;
+  border-color: #F7F7F7;
+  border-style: solid;
+  border-radius: 16px;
+  border-spacing: 0px;
+  box-shadow: 0 3px 3px 0 #E1E1E1;
+  margin-bottom: 50px;
+}
+
+/* header */
+table thead tr th {
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: #F7F7F7;
+  font-weight: 700;
+  font-family: "Avenir Heavy";
+  font-size: 24px;
+  line-height: 32px;
+}
+
+table thead tr th:first-child {
+  border-top-left-radius: 10px;
+  border-top-width: 0px;
+  background-color: #F7F7F7;
+}
+table thead tr th:last-child {
+  border-top-right-radius: 10px;
+  border-top-width: 0px;
+  background-color: #F7F7F7;
+}
+
+/* body */
+table tbody tr td {
+  border-width: 0px;
+  border-top-width: 1px;
+  border-color: #e1e1e1;
+  border-style: solid;
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  font-weight: 350;
+  font-family: "Avenir Book";
+  font-size: 20px;
+  line-height: 35px;
+  letter-spacing: 0.1%;
+  
+}

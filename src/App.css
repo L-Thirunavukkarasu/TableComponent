@@ -1,0 +1,20 @@
+.app {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.appHeader {
+	font-weight: 700;
+  font-family: "Avenir Book";
+  font-size: 20px;
+  line-height: 35px;
+  letter-spacing: 0.1%;
+  text-decoration: underline;
+}
+
+
+
+
